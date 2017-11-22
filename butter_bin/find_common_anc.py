@@ -1,7 +1,8 @@
 #!/usr/bin/env python
-
+'''
+find stretches of continuous ancestor
+'''
 import sys
-
 
 if __name__ == '__main__':
     #input is vcf with snvs only
